@@ -1,0 +1,54 @@
+#principal {
+    width: 80.62em;
+    height: 60.5em;
+    background: rgb(47, 255, 245);
+    margin: 1em auto;
+}
+
+#cabecera {
+    width: 75em;
+    height: 15.5em;
+    background: rgb(68, 47, 255);
+    background-size: auto;
+    position: relative;
+    top: 5%;
+    left: 3%;
+    background-image: none;
+    background-size: 100% 100%;
+}
+
+#tut_banner {
+    width: 22em;
+    height: 3.5em;
+    background: rgb(18, 245, 131);
+    position: relative;
+    top: 68%;
+    left: 63%;
+}
+
+#menu {
+    width: 75em;
+    height: 3.5em;
+    background: rgb(18, 245, 131);
+    position: relative;
+    top: 6%;
+    left: 3%;
+}
+
+#noticias {
+    width: 50.5em;
+    height: 25.5em;
+    background: rgb(245, 173, 18);
+    position: relative;
+    top: 7%;
+    left: 3%;
+}
+
+#laterall {
+    width: 25em;
+    height: 25.5em;
+    background: rgb(245, 18, 94);
+    position: relative;
+    bottom: 35%;
+    left: 66%;
+}
