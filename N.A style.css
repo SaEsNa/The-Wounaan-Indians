@@ -1,5 +1,9 @@
-body {
+.container {
+    all: 12;
     background-color: #c0e5d0;
+    width: 500px;
+    margin: auto;
+    border: 3px solid green;
 }
 
 nav {
@@ -57,24 +61,59 @@ tr:hover td {
 
 h1 {
     color: #ff2020;
-    font: 45px Copperplate Gothic;
+    font: 100px Copperplate Gothic;
 }
 
 h2 {
     color: #001aff;
-    font: italic 30px Showcard Gothic;
+    font: italic 60px Showcard Gothic;
     clear: both;
-}
-
-#Colombia-Panamá {
-    width: 300px;
-    float: left;
-    margin-left: 20px;
-    margin-top: 15px;
-
 }
 
 p {
     font: 17px "Maiandra GD", fantasy;
     clear: both;
 }
+
+#new-photo {
+    width: 490px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 6px ridge rgb(234, 236, 120)
+}
+
+.texto {
+    width: 70%;
+    height: 130px;
+    overflow: auto;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    
+}
+
+.Libro {
+    width: 200px;
+    float: left;
+    margin-right: 1opx;
+    margin-bottom: 10px;
+    border: 6px ridge rgb(234, 236, 120)
+}
+
+p {
+    font: 17px "Maiandra GD", fantasy;
+    clear: both;}
+
+.new-photo {
+    width: 220px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 6px ridge rgb(234, 236, 120)
+}
+
+h4{
+    background-color: rgb(232, 232, 232);
+    padding: 6px;
+    clear: both; }
