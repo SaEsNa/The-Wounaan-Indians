@@ -71,7 +71,7 @@ h2 {
 }
 
 p {
-    font: 17px "Maiandra GD", fantasy;
+    font: 17px "Tahoma", sans-serif;
     clear: both;
 }
 
@@ -86,7 +86,7 @@ p {
 .texto {
     width: 70%;
     height: 130px;
-    overflow: "Tahoma", sans-serif;
+    overflow: auto;
     position: relative;
     top: 10px;
     left: 10px;
