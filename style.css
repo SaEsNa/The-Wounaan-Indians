@@ -86,7 +86,7 @@ p {
 .texto {
     width: 70%;
     height: 130px;
-    overflow: auto;
+    overflow: "Tahoma", sans-serif;
     position: relative;
     top: 10px;
     left: 10px;
